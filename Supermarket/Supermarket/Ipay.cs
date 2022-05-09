@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Supermarket
+﻿namespace Supermarket
 {
-    public interface Ipay
+    public interface IPay
     {
+        //interfaz para hacer contratos con clases
         public decimal ValueToPay();
     }
 }
