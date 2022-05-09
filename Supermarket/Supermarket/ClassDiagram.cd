@@ -29,11 +29,19 @@
       <FileName>ComposedProduct.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="Supermarket.Invoice">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAASAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Invoice.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
   <Interface Name="Supermarket.Ipay">
     <Position X="4" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Ipay.cs</FileName>
+      <FileName>IPay.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Font Name="Verdana" Size="9.75" />
